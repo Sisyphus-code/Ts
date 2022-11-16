@@ -16,6 +16,6 @@ interface MyWindow {
 }
 
 const w: MyWindow = {
-    count : 1
+    count : 3
 }
 console.log(w)
